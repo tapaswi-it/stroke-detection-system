@@ -1,6 +1,7 @@
 # Stroke Detection System
+This repository is for the Stroke Detection System team project. Everyone should create feature branches, push changes, and make pull requests to main.
 
-## Overview 
+## Project Title
 Brain Stroke Detection Based on CT Images Using Deep Learning
 
 ## Tech Stack
